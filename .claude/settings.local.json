@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/aidaw/Desktop/Code/Thumbnail_Landing_Page/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
